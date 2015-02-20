@@ -1,0 +1,35 @@
+<header id="header">
+  <div id="overlay"></div>
+  <div id="header-outer" class="outer">
+    <div id="profile_img">
+      <img id="circle_img" src="<%= theme.your_img %>" />
+    </div>
+    <div id="header-title" class="inner">
+      <h1 id="logo-wrap">
+        <a href="<%- url_for() %>" id="logo"><%= config.title %></a>
+      </h1>
+      <% if (theme.subtitle){ %>
+        <h2 id="subtitle-wrap">
+          <p "<%- url_for() %>" id="subtitle"><%= theme.subtitle %></p>
+        </h2>
+      <% } %>
+      <% if (theme.description){ %>
+        <h2 id="description-wrap">
+          <p "<%- url_for() %>" id="description"><i class="fa <%= theme.mail_icon %> fa-lg"></i>&nbsp;<%= theme.description %></p>
+        </h2>
+      <% } %>
+  </div>
+    <div id="header-menu">
+      <nav id="main-nav">
+        <ul>
+        <% for (var i in theme.menu){ %>
+          <li><a href="<%- url_for(theme.menu[i]) %>"><i class="fa <%= theme.menu_icon[i] %> icon-setting fa-lg"></i><%= theme.name[i] %></a></li>
+        <% } %>
+        <% if (theme.rss){ %>
+          <li><a href="<%- theme.rss %>"><i class="fa fa-rss %> icon-setting"></i></a></li>
+        <% } %>
+        </ul>
+      </nav>
+    </div>
+  </div>
+</header>

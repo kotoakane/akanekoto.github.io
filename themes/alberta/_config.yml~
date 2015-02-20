@@ -1,0 +1,36 @@
+# Header
+# menu:
+#   Profile: /#post-profile
+#   Publications: /#post-publications
+#   Awards: /#post-awards
+#   TeachingExp: /#teachingexp
+
+# menu_icon:
+#     Profile: fa-caret-down
+#     Publications: fa-caret-down
+#     Awards: fa-caret-down
+#     TeachingExp: fa-caret-down
+
+# name:
+#   Profile: profile
+#   Publications: publications
+#   Awards: awards
+#   TeachingExp: teaching experiments
+
+mail_icon: fa-envelope-o
+
+# Content
+excerpt_link: Read More
+fancybox: true
+
+#your personal image
+# your_img: holder.js/150x150
+your_img: prof.png
+
+# Miscellaneous
+google_analytics: 
+favicon:
+twitter:
+google_plus:
+fb_admins:
+fb_app_id:
