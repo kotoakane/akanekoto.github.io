@@ -88,4 +88,6 @@ exclude_generator:
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: github
+  repo: git@github.com:kotoakane/kotoakane.github.io.git
+  branch: master
