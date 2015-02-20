@@ -1,0 +1,13 @@
+title: Working Experimences
+date: 2015-02-18 17:15:00
+tags:
+---
+* __Engineer (part-time) (Apr. 2012 - Present?)__
+<a href="">Lightmarks Corp.</a>
+Developed web application UI, logos. Developed android applications. 
+* __Engineer (part-time) (Jun. 2014 - Sep. 2014)__
+<a href="">Yourniture Inc.</a>
+Developed an ordering system and a production management system for customized furnitures (Amazon Web Services, Django Framework).
+* __Mentor (part-time) (Mar. 2012 - Sep. 2012)__
+<a href="">Life is Tech, Inc.</a>
+Taught android application development for middle and high school students.
