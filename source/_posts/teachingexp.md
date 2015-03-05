@@ -2,7 +2,8 @@ title: Teaching Experiences
 date: 2015-02-18 17:00:00
 tags: 
 ---
-## Research Associate (fixed term/research incentive) (Apr. 2015 - Mar. 2016)
+## Research Associate
+* __Research Associate (fixed term/research incentive) (Apr. 2015 - Mar. 2016)
 Graduate School of Science and Technology, Keio University
 
 ## Teaching Assistant
