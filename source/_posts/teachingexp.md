@@ -3,7 +3,7 @@ date: 2015-02-18 17:00:00
 tags: 
 ---
 ## Research Associate
-* __Research Associate (fixed term/research incentive) (Apr. 2015 - Mar. 2016)
+* __Research Associate (fixed term/research incentive) (Apr. 2015 - Mar. 2016)__
 Graduate School of Science and Technology, Keio University
 
 ## Teaching Assistant
